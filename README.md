@@ -11,8 +11,8 @@
 
 ## Используемые технологии
 
-- Python 3.10+  
-- Aiogram 3  
+- Python 3.11+  
+- Aiogram 3.x+
 - OpenAI API  
 - Asyncio  
 
